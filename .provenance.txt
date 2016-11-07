@@ -114,3 +114,22 @@ sha: 71d6c5f
 # parameter values
 base_docker_repository: russmile
 
+####
+
+# editor info
+name: atomist-project-templates.spring-boot-common-editors.AddFeignClientWithCircuitBreaker
+group: atomist-project-templates
+artifact: spring-boot-common-editors
+version: 1.8.1
+
+# backing git repo
+repo: atomist-project-templates/spring-boot-common-editors.git
+branch: master
+sha: 71d6c5f
+
+# parameter values
+consumed_endpoint_address: <https://sylvainslaptop>
+feign_interface: Hollywood
+invoking_relative_endpoint_url: /movies
+endpoint_invoking_method: getMyMovie
+
