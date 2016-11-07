@@ -98,3 +98,19 @@ version: 0.0.1-SNAPSHOT
 artifact_id: myartifact
 project_name: jackiesbigshots
 
+####
+
+# editor info
+name: atomist-project-templates.spring-boot-common-editors.AddDockerMavenBuild
+group: atomist-project-templates
+artifact: spring-boot-common-editors
+version: 1.8.1
+
+# backing git repo
+repo: atomist-project-templates/spring-boot-common-editors.git
+branch: master
+sha: 71d6c5f
+
+# parameter values
+base_docker_repository: russmile
+
