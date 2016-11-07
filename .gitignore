@@ -1,0 +1,7 @@
+# Created using https://www.gitignore.io/api/scala,intellij
+
+git.properties
+provenance.properties
+bin
+.git
+.DS_Store

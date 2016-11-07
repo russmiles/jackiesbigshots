@@ -1,0 +1,100 @@
+####
+
+# editor info
+name: atomist-project-templates.spring-rest-service.AddLogback
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.5.2
+
+# backing git repo
+repo: atomist-project-templates/spring-rest-service.git
+branch: master
+sha: 255eb73
+
+# parameter values
+root_package: org.bla
+
+####
+
+# editor info
+name: atomist-project-templates.spring-rest-service.AddLogback
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.5.2
+
+# backing git repo
+repo: atomist-project-templates/spring-rest-service.git
+branch: master
+sha: 255eb73
+
+# parameter values
+root_package: org.bla
+
+####
+
+# editor info
+name: atomist-project-templates.spring-rest-service.SwitchReadmes
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.5.2
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: test12
+
+####
+
+# editor info
+name: atomist-project-templates.spring-rest-service.SwitchReadmes
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.5.2
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: test12
+
+####
+
+# editor info
+name: atomist-project-templates.spring-rest-service.SwitchReadmes
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.5.2
+
+# backing git repo
+repo: n/a
+branch: n/a
+sha: n/a
+
+# parameter values
+project_name: test12
+
+# generator info
+name: Spring Boot Rest Microservice
+group: atomist-project-templates
+artifact: spring-rest-service
+version: 3.5.2
+
+# backing git repo
+repo: atomist-project-templates/spring-rest-service.git
+branch: master
+sha: 255eb73
+
+# parameter values
+description: My awesome moment
+root_package: com.myorg
+service_class_name: BigShots
+group_id: com.russmiles
+version: 0.0.1-SNAPSHOT
+artifact_id: myartifact
+project_name: jackiesbigshots
+
